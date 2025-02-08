@@ -1,0 +1,54 @@
+1 h1{
+color: aqua;
+background-color: cornsilk;
+}
+
+
+h2 {
+    border: 10cap;
+    padding: 10;
+    background-color: purple;
+    border-style: initial;
+    color: aqua;
+    text-decoration: overline;
+}
+.gidcontainer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:purple;
+    padding: 10px;
+}
+
+
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+#snowwhite {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    color: brown;
+    position: fixed;
+    text-align: left;
+}
+
+#theprincessandthepea {
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    background-color: chocolate;
+}
+#theprincessandthepea {
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    background-color: chocolate;
+}
+#sleepingbuety {
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    background-color: chocolate;
+}
