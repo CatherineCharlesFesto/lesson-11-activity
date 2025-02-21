@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>CATHERINES BOOK CLUB</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <link rel="stylesheet" type="text/css" href="style.css" />
 <body>
@@ -10,7 +11,7 @@ CATHERINES BOOK CLUB 4 BOOKS ONLY.
 <h2>
 In my book club you will read many books like;
 </h2>
-<div class="gidcontainer">
+<div class="gidcontainer bg-success">
 <div><img src="image.jpg"height="200px" width="200px"></div>
 <div><img src="maxresdefault.jpg" height="200px" width="200px"></div>
 <div><img src="Snow_White_and_the_Seven_Dwarfs_poster.webp" height="200px" width="200px"></div>
