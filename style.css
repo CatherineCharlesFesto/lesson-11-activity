@@ -11,14 +11,6 @@ h2 {
     border-style: initial;
     color: aqua;
     text-decoration: overline;
-}
-.gidcontainer {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    background-color:purple;
-    padding: 10px;
-}
-
 
 #flex {
     display: flex;
